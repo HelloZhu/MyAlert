@@ -1,0 +1,3 @@
+# MyAlert
+通过继承CustomIOSAlertView并且重写addButtonsToView方法
+ 也可以改变其他东西以达到创建一个新的类型的alert
